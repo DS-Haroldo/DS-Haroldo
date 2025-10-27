@@ -1,7 +1,9 @@
-## Hi there 👋
-Hola te saluda Haroldo capillo y soy Data Specialist
-<img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white">
-## My Skills Include
+
+![Banner de DS-Haroldo](banner.png)
+<div id="header" align="right">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTF0aXV1czFkNTdqZTNibWlmbnp2bTNjc2pjZGIyanAwazBvaW50cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OumCa12QC9CIvBe2c1/giphy.gif" width="200"/>
+</div>
+
 
 <h3> Languages </h3>
 <span> 
